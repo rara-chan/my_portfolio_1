@@ -50,12 +50,6 @@
 <br>
 <br>
 
-## 画面遷移図
-https://www.figma.com/file/6MtTIxrB5TPEXVcn18PuDy/portfolio--1?node-id=0%3A1
-<br>
-<br>
 
-## ER図
-[![Image from Gyazo](https://i.gyazo.com/f90ce724f5a82357686dac321ca3ca30.png)](https://gyazo.com/f90ce724f5a82357686dac321ca3ca30)
 
 
